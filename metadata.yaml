@@ -1,0 +1,30 @@
+_repo: Az-arany-polgar_72650
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lovik, Károly
+    alias: Lovik, Karoly
+    birthdate: 1874
+    deathdate: 1915
+    gutenberg_agent_id: '51788'
+    url: http://www.gutenberg.org/2009/agents/51788
+    wikipedia: https://hu.wikipedia.org/wiki/Lovik_K%C3%A1roly_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2024-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72650'
+language: hu
+pgterms:marc905: 20240104090803lovik
+pgterms:marc906: '1928'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bLégrády Testvérek, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Az arany polgár
+url: http://www.gutenberg.org/ebooks/72650
